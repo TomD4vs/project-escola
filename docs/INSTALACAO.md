@@ -32,8 +32,8 @@ npm --version
 
 ```bash
 # escolha uma pasta e clone o repositório
-git clone <URL-DO-SEU-REPOSITORIO> "Projeto Final"
-cd "Projeto Final"
+git clone https://github.com/TomD4vs/project-escola.git "Portal Academico"
+cd "Portal Academico"
 ```
 
 > Se você recebeu o projeto como **.zip**, apenas extraia e abra a pasta.
